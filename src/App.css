@@ -36,3 +36,65 @@
     transform: rotate(360deg);
   }
 }
+
+.header{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center ;
+  background: green;
+  color: white;
+  height: 10vh;
+  
+ 
+}
+
+.footer{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center ;
+  background: green;
+  color: white;
+  height: 10vh;
+}
+
+ .sidenav{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center ;
+  height: 70vh;
+  width: 100%;
+  background: purple;
+  color: white;
+  font-size: 3vmin;
+  margin-top: 10px;
+}
+
+.main-content{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center ;
+  height: 70vh;
+  width: 100%;
+  background: blue;
+  color: white;
+  font-size: 3vmin;
+  margin-top: 10px;
+  
+}
+
+ .sidenav-2{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center ;
+  height: 70vh;
+  width: 100%;
+  background: purple;
+  color: white;
+  font-size: 3vmin;
+  margin-top: 10px;
+}
